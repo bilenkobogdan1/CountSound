@@ -1,0 +1,8 @@
+C:\Users\bilen\source\repos\Project8\Project8\obj\Debug\Project8.csproj.AssemblyReference.cache
+C:\Users\bilen\source\repos\Project8\Project8\obj\Debug\Project8.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilen\source\repos\Project8\Project8\obj\Debug\Project8.csproj.CoreCompileInputs.cache
+C:\Users\bilen\source\repos\Project8\Project8\bin\Debug\Project8.exe.config
+C:\Users\bilen\source\repos\Project8\Project8\bin\Debug\Project8.exe
+C:\Users\bilen\source\repos\Project8\Project8\bin\Debug\Project8.pdb
+C:\Users\bilen\source\repos\Project8\Project8\obj\Debug\Project8.exe
+C:\Users\bilen\source\repos\Project8\Project8\obj\Debug\Project8.pdb
